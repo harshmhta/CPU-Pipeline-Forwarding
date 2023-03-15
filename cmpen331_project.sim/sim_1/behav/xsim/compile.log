@@ -1,0 +1,25 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/Control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/Decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/Execution.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Execution
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/fetch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fetch
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/instruction.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "Z:/Downloads/lab4/pipelinePC/Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-2458] undeclared symbol mwreg, assumed default net type wire [Z:/Downloads/lab4/pipelinePC/Top.v:45]
+INFO: [VRFC 10-2458] undeclared symbol mm2reg, assumed default net type wire [Z:/Downloads/lab4/pipelinePC/Top.v:45]
+INFO: [VRFC 10-2458] undeclared symbol mwmem, assumed default net type wire [Z:/Downloads/lab4/pipelinePC/Top.v:45]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/harsh/Desktop/finalsproj/finalsproj.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

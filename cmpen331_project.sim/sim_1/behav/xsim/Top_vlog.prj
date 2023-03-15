@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"Z:/Downloads/lab4/pipelinePC/ALU.v" \
+"Z:/Downloads/lab4/pipelinePC/Control_unit.v" \
+"Z:/Downloads/lab4/pipelinePC/Data_Memory.v" \
+"Z:/Downloads/lab4/pipelinePC/Decode.v" \
+"Z:/Downloads/lab4/pipelinePC/Execution.v" \
+"Z:/Downloads/lab4/pipelinePC/Memory.v" \
+"Z:/Downloads/lab4/pipelinePC/fetch.v" \
+"Z:/Downloads/lab4/pipelinePC/instruction.v" \
+"Z:/Downloads/lab4/pipelinePC/reg_file.v" \
+"Z:/Downloads/lab4/pipelinePC/Top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
